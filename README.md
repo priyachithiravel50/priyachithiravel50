@@ -26,6 +26,6 @@ I’m a passionate Frontend Developer who loves building intuitive and responsiv
 ## 📫 Connect with Me
 
 - *Email:* mailto:priyachithiravel50@gmail.com
-- *LinkedIn:* https://www.linkedin.com/in/priya-priya-b415a5322/
+- *LinkedIn:* https://www.linkedin.com/in/priya-chithiravel-C0024/
 
 
