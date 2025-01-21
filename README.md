@@ -6,7 +6,7 @@ I’m a passionate Frontend Developer who loves building intuitive and responsiv
 
 ## 👨‍💻 About Me
 - 🎓 Education: Bachelor of Computer Application (BCA).
-- 💼 Currently working as Frontend Developer at Ebrain Technology.
+- 💼 Currently working as Frontend Developer.
 - 🌱 I’m currently learning  React .
 
 
