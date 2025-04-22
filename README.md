@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Priya
 
-I’m a passionate Frontend Developer who loves building intuitive and responsive web applications. I enjoy coding, learning new technologies.
+I’m a passionate Front‑End Developer specializing in ReactJS and Material UI. With strong expertise in Redux Saga for state management and hands‑on experience building responsive, user‑friendly interfaces, I focus on writing clean, maintainable code and continuously learning new tools and best practices to deliver polished web experiences.
 
 
 
