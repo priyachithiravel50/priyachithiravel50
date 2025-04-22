@@ -19,7 +19,8 @@ I’m a passionate Frontend Developer who loves building intuitive and responsiv
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?logo=material-ui&logoColor=white)
+
 
 ## 🚀 Projects
 
