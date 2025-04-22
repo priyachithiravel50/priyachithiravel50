@@ -6,7 +6,7 @@ I’m a passionate Frontend Developer who loves building intuitive and responsiv
 
 ## 👨‍💻 About Me
 - 🎓 Education: Bachelor of Computer Application (BCA).
-- 💼 Currently working as Frontend Developer.
+- 💼 Currently working as a Frontend Developer at Ebrain Technologies.
 - 🌱 I’m currently working Attendance Management Project.
 
 
@@ -19,6 +19,7 @@ I’m a passionate Frontend Developer who loves building intuitive and responsiv
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 
 ## 🚀 Projects
 
