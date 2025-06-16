@@ -7,7 +7,7 @@ I’m a passionate Front‑End Developer specializing in ReactJS and Material U
 ## 👨‍💻 About Me
 - 🎓 Education: Bachelor of Computer Application (BCA).
 - 💼 Currently working as a Frontend Developer at Ebrain Technologies.
-- 🌱 I’m currently working Attendance Management Project.
+- 🌱 I’m currently working Quick Receipt Project.
 
 
 ## 🛠 Skills
